@@ -6,8 +6,7 @@
 
 
 BubbleSort:
-// THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING A TUTOR   
-// OR CODE WRITTEN BY OTHER STUDENTS - Wali Khan 2308097
+
 //*****************************************************
 // Write your bubble sort assembler subroutine here
 //
